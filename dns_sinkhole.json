@@ -1,0 +1,17 @@
+{
+  "activo": true,
+  "dominios_bloqueados": [
+    "coinhive.com",
+    "crypto-loot.com",
+    "webminerpool.com",
+    "c2-rat-payload.biz",
+    "dark-payload-handler.net",
+    "botnet-beacon.xyz",
+    "secure-login-apple-support.xyz",
+    "update-microsoft-security.net",
+    "paypal-verification-account.top",
+    "bank-login-secure-auth.club",
+    "ransomware-decryption-key.cc",
+    "cobaltstrike-listener.org"
+  ]
+}

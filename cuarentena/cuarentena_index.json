@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Q_1787348014",
+    "nombre_original": "desktop.ini",
+    "ruta_original": "C:\\Users\\hackthecross\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\desktop.ini",
+    "archivo_cuarentena": "1787348014_desktop.ini.locked",
+    "fecha": "2026-08-21 17:33:34",
+    "sha256": "cdb11958506a5ba5478e22ed472fa3ae422fe9916d674f290207e1fc29ae5a76",
+    "tamano_bytes": 174
+  },
+  {
+    "id": "Q_1787694249",
+    "nombre_original": "AME-Beta-v0.8.4.exe",
+    "ruta_original": "C:\\Users\\hackthecross\\Downloads\\AME-Beta-v0.8.4.exe",
+    "archivo_cuarentena": "1787694249_AME-Beta-v0.8.4.exe.locked",
+    "fecha": "2026-08-25 17:44:10",
+    "sha256": "a637f32b64e1493b315db9139065105656c84518dca20ce3b18c89750ee40c82",
+    "tamano_bytes": 153730048
+  }
+]

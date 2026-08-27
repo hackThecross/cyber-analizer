@@ -1,0 +1,37 @@
+{
+  "C:\\Windows\\System32\\drivers\\etc\\hosts": {
+    "sha256": "90090978c270e5fa5ee417145af36d6665b036f963f40da5c5989ab8dbef3d04",
+    "tamano": 3365,
+    "fecha_base": "2026-08-23 07:33:52"
+  },
+  "C:\\Windows\\System32\\ntdll.dll": {
+    "sha256": "e758fa414086189b0df0b569750d1e4e164ee1a43598d758536acec159a5f3e5",
+    "tamano": 2522008,
+    "fecha_base": "2026-08-23 07:33:52"
+  },
+  "C:\\Windows\\System32\\kernel32.dll": {
+    "sha256": "9708e1b96005da3e3170991fdfd4fff46fd2362d01c726e51bdf53c24c07b46b",
+    "tamano": 836152,
+    "fecha_base": "2026-08-23 07:33:52"
+  },
+  "C:\\Windows\\System32\\user32.dll": {
+    "sha256": "5a232dd5d716cbd4f8df7f42d03fb9148c815836a00e3039ba607fbf83dc9223",
+    "tamano": 1873304,
+    "fecha_base": "2026-08-23 07:33:52"
+  },
+  "C:\\Windows\\System32\\cmd.exe": {
+    "sha256": "f682aadda9deb654885ae17909380a25f7cb1a43ac0934ac425ee8de4924c7f3",
+    "tamano": 344064,
+    "fecha_base": "2026-08-23 07:33:52"
+  },
+  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe": {
+    "sha256": "0ff6f2c94bc7e2833a5f7e16de1622e5dba70396f31c7d5f56381870317e8c46",
+    "tamano": 454656,
+    "fecha_base": "2026-08-23 07:33:52"
+  },
+  "C:\\Windows\\System32\\taskmgr.exe": {
+    "sha256": "fa8e51787b6dbd53de63b2db26a3e337177a94c2bedd3d44991e9cfc7419f40e",
+    "tamano": 5517728,
+    "fecha_base": "2026-08-23 07:33:52"
+  }
+}

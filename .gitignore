@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# PyInstaller / Build
+build/
+dist/
+*.spec.bak
+
+# Inno Setup output
+output_installer/
+
+# Logs & Temporary files
+logs/*.log
+*.perm_test
+reportes/*.html
+cuarentena/*.locked
+
+# VS Code / IDE
+.vscode/
+.idea/
